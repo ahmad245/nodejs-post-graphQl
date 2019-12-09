@@ -1,0 +1,26 @@
+{
+  "users":[
+      {"id":"1","name":"ahmad","username":"ahmad@gmail.com"},
+      {"id":"2","name":"aaa","username":"ahmad@gmail.com"},
+      {"id":"3","name":"ahmadalmasri","username":"ahmad@gmail.com"}
+  ],
+  "blogType":[
+    {"id":"1","name":"javaScript"},{"id":"2","name":"css"},{"id":"3","name":"angular"}
+  ],
+  "blogs":[
+    {"id":"1","title":"apple","slug":"aa","description":"this is first blog",
+      "isPublish":true,"auther":"ahmad almasri","userId":"1","blogTypeId":"1",
+      "comments":[{"id":"1","message":"this apple blog nice from ahmad","rating":5,"userId":"1"},
+        {"id":"2","message":"this apple blog very good from aaa","rating":4,"userId":"2"}]},
+   
+    {"id":"2","title":"facebook","slug":"ah","description":"this is second blog",
+      "isPublish":true,"auther":"ahmad almasri2","userId":"2","blogTypeId":"2",
+      "comments":[{"id":"1","message":"this blog very bad","rating":5,"userId":"1"},
+        {"id":"2","message":"this blog very good","rating":4,"userId":"2"}]},
+   
+      {"id":"3","title":"google","slug":"aa","description":"this is first blog",
+        "isPublish":true,"auther":"ahmad almasri","userId":"1","blogTypeId":"3",
+        "comments":[{"id":"16","message":"this google blog from ahmad","rating":5,"userId":"1"},{"id":"2","message":"this google blog vgg from aaa","rating":4,"userId":"2"}]}
+  ]
+}
+

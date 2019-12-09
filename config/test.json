@@ -1,0 +1,6 @@
+{
+    "accessKeyId":"AKIATYA3ZZ43I33MGMVI",
+    "secretAccessKey":"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",
+    "secretKey":"blog",
+    "db":"mongodb://localhost/blog_test"
+}

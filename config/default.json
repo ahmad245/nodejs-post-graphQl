@@ -1,0 +1,6 @@
+{
+    "secretKey":"",
+    "accessKeyId":"",
+    "secretAccessKey":"",
+    "db":"mongodb://localhost/blog"
+}
