@@ -42,7 +42,7 @@
     "pdfkit": "^0.8.3",
     "pug": "^2.0.3",
     "puppeteer": "^1.0.0",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "session-file-store": "^1.2.0",
     "subscriptions-transport-ws": "^0.9.16",
     "underscore": "^1.9.1",
